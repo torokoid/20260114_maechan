@@ -208,7 +208,7 @@ p.note { display: none; }
 <h2><span class="yellow">みかん試食したら美味しかったので3Kg,100バーツで購入</span></h2>
 <a href="20260114_016.JPG" target="_blank"><img src="20260114_016.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">ペットボトルに詰められたキノコ</span></h2>
+<h2><span class="yellow">キノコはペットボトルに詰めて売られてました</span></h2>
 <a href="20260114_017.JPG" target="_blank"><img src="20260114_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">野菜も格安</span></h2>
